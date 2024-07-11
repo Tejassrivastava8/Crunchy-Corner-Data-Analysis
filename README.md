@@ -20,27 +20,13 @@ Utilized DAX formulas to create advanced measures for calculating different prof
 Created visualizations to display the data insights effectively.
 ## Financial Performance Analysis
 The analysis covered the following areas:
-
-Overall Sales, Gross Profit, EBITDA, PAT, SKU:
-Comprehensive overview of key financial metrics.
-
-Year-over-Year (YoY) Change for Sales, Gross Profit, EBITDA, PAT:
-Analyzed the year-over-year change to identify trends and growth patterns.
-
-Trend of Sales with PAT and PAT%:
-Examined the sales trend alongside PAT and PAT percentage to evaluate performance.
-
-100% Stacked Column Chart showing Sales, Gross Profit, EBITDA, PAT:
-Visualized the contribution of each metric to the overall financial performance.
-
-Sales by Category & Location:
-Detailed breakdown of sales across different categories and locations.
-
-Sales Bifurcation by Channel:
-Analyzed sales distribution across various channels.
-
-Volume & Trend by Category:
-Evaluated the volume and trend of sales by category to identify high-performing areas.
+- Comprehensive overview of key financial metrics like Overall Sales, Gross Profit, Ebitda, Pat, SKU.
+- Analyzed the year-over-year change to identify trends and growth patterns.
+- Examined the sales trend alongside PAT and PAT percentage to evaluate performance.
+- Visualized the contribution of each metric to the overall financial performance via using 100% stacked Coloumn Chart.
+- Detailed breakdown of sales across different categories and locations.
+- Analyzed sales distribution across various channels.
+- Evaluated the volume and trend of sales by category to identify high-performing areas.
 ## Learning Experience
 This project was a significant learning opportunity for me, allowing me to apply and expand my skills in data analysis and visualization using Power BI.
 
